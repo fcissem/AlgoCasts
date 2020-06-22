@@ -5,7 +5,7 @@
 //   reverse('apple') === 'leppa'
 //   reverse('hello') === 'olleh'
 //   reverse('Greetings!') === '!sgniteerG'
-
+// to test each solution, go to exercises (terminal) and type test reversestring/test.js -- watch
 function reverse(str) {
 
   //lets add a debugger : step 1 =>
